@@ -1,0 +1,7 @@
+node_modules/
+.output/
+output/
+u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-kit/
+*-kit/
+*.tgz
+.DS_Store

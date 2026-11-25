@@ -1,0 +1,1 @@
+{"description":"One-Line Roast: The Gadget You Use Every Day — a single original roast line about a smartwatch, written deterministically to /output/entry.txt.","license":"MIT","main":"main.ts","name":"u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
